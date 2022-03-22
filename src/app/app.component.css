@@ -1,0 +1,54 @@
+
+
+h1 {
+    color:darkorchid;
+    text-align: center;
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Press Start 2P', cursive;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.form-group {
+    
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.btn-group {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.btn.btn-light{
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+}
+
+p{
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+}
+
+h5{
+    text-align: right;
+    color:indianred;
+    background-color: beige;
+    font-weight: bold;
+    font-family:'Sansita Swashed', cursive;;
+    margin: 10px;
+    padding: 10px;
+}
+
+.navbar-brand {
+    color: indianred;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bolder;
+}
+
